@@ -3,7 +3,6 @@ project:
   output-dir: _site
 
 website:
-  title: "Daniel A. Brent"
   navbar:
     left:
       - href: index.qmd
@@ -12,12 +11,19 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: resources.qmd
-        text: Resources
       - href: cv.qmd
         text: CV
+    right:
+      - icon: github
+        href: https://github.com/dbrentecon
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=-0oqdtsAAAAJ&hl=en
+        
+execute:
+  freeze: false
 
 format:
   html:
     theme: cosmo
     toc: false
+    css: my-css.css

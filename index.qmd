@@ -1,11 +1,16 @@
 ---
 title: "Home"
+title-block-banner: assets/images/web_lake3.jpg
+title-block-banner-color: "black"
 ---
 
-I am applied microeconomist with a focus on environmental economics and water resources. I am currently an associate professor in the Department of Agricultural Economics, Sociology, & Education (AESE) at The Pennsylvania State University. I use methods of causal inference such as field experiments, discrete choice experiments, and the econometric analysis of observational data.
+Dr. Brent is an applied microeconomist whose research sits at the intersection of environmental economics, water resource economics, behavioral economics, and public policy analysis. He is currently an Associate Professor in the Department of Agricultural Economics, Sociology, & Education at Pennsylvania State University. Dr. Brent’s research focuses on understanding how economic agents respond to incentives, environmental stimuli, and information in settings with externalities. His work uses field experiments, behavioral economics, quasi-experimental variation, and machine learning to address pressing environmental and resource challenges. Recent projects examine peer effects in voluntary environmental programs, the frictions in water assistance programs, the introduction of volumetric water pricing, and the interaction between behavioral nudges and economic incentives. Another strand of his work studies financial literacy and cost misperceptions in higher education.
 
-Feel free to contact me if you have any questions or comments on my research.
+Dr. Brent currently teaches a PhD econometrics course on causal inference and an undergraduate personal finance course. Prior teaching includes environmental economics, principles of microeconomics, and intermediate microeconomics.
 
 - [Research](research.qmd)
 - [CV](cv.qmd)
-- [Google Scholar](https://scholar.google.com/)
+- [Google Scholar](https://scholar.google.com/citations?user=-0oqdtsAAAAJ&hl=en)
+
+![](assets/images/dbrent_small.jpg){width=30% fig-align="center"}
+
