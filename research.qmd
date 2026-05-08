@@ -6,13 +6,6 @@ title-block-banner-color: "black"
 
 ## Working Papers
 
-- [**Peer effects in voluntary environmental programs: An application to urban water quality**](assets/papers/brent_et_al_peer_effects_gsi.pdf) (with Douglas Wrenn; Gabe Lara; Joe Cook - Accepted *Journal of the Association of Environmental and Resource Economists*)
-<details class="wp-abstract">
-<summary>Abstract</summary>
-Stormwater runoff is a growing source of urban water pollution, costing cities billions of dollars. We investigate peer effects in a voluntary residential green stormwater infrastructure program that mitigates stormwater runoff. Our identification strategy exploits households’ relative position in eligible sewersheds that generates plausibly exogenous variation in eligible peers. Peer adoption causes a 0.2% increase in the annual adoption probability, a 66% increase relative to the mean. According to our calculations, the policy reduced compliance costs by $85–235 million for the Seattle metropolitan area, of which roughly 40% is due to peer effects.
-</details>
-
-
 - [**Conservation and distributional consequences of pricing scarce water during droughts**](https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/)  (with Derek Wietelman; Casey Wichman - Revise & Resubmit *Journal of the Association of Environmental and Resource Economists*) 
 <details class="wp-abstract">
 <summary>Abstract</summary>
@@ -34,7 +27,7 @@ The food system accounts for up to a third of global emissions, with carbon foot
 </details>
 
 
-- **Adopting solar power for irrigation: Implications for groundwater depletion in Gujarat** (with Praharsh Patel; Emily Pakhtigian; Christopher Scott - email for a copy)  
+- **Selling Power or Trading Water? Farmer Responses to Pricing Incentives under Grid-Connected Solar Irrigation** (with Praharsh Patel; Emily Pakhtigian; Christopher Scott - Revise and Resubmit *Environment and Development Economics*)  
 <details class="wp-abstract">
 <summary>Abstract</summary>
 Groundwater is a vital resource for irrigation in India supporting food security and rural livelihoods. Energy subsidies for groundwater pumping improve short-term water access but worsen over-extraction incentives, accelerating depletion of this already overused common pool resource. Economic theory supports pricing or taxing groundwater, but even removing subsidies is politically difficult. Grid-connected solar irrigation offers a potential solution by creating an incentive to conserve groundwater from selling unused energy back to the grid. This study evaluates the impact of grid-connected solar irrigation under the Suryashakti

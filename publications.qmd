@@ -1,4 +1,7 @@
 
+- Brent, D. A., Wrenn, D. H., Lara, G. R. & Cook, J.H. (2026) **[Peer effects in voluntary environmental programs: An application to urban water quality](https://www.journals.uchicago.edu/doi/full/10.1086/739114)**] *Journal of the Association of Environmental and Resource Economists* 12(2).
+  [Working paper](assets/papers/brent_et_al_peer_effects_gsi.pdf)
+
 - Lara, G. R., Brent, D. A., Lassiter, A., & Tian, H. (2025). **[Causal effects of urbanization and winter weather on salinity in the Delaware River Basin](https://www.sciencedirect.com/science/article/pii/S0301479725022649)** *Journal of Environmental Management*, 391, 126288.  
   [Working paper](assets/papers/lara_brent_salinity_wp.pdf)
 
