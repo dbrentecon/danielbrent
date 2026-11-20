@@ -6,3 +6,6 @@
 /.quarto/
 
 **/*.quarto_ipynb
+
+# Old output folder (the site is now built into docs/)
+/_site/

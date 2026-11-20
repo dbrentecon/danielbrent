@@ -1,29 +1,45 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
+  resources:
+    - CNAME
+    # Images used as CSS backgrounds must be listed here; everything
+    # linked normally in the .qmd files (PDFs, headshot) is copied automatically.
+    - assets/images/web_lake3.jpg
+    - assets/images/web_mount_lake2.jpg
+  render:
+    - index.qmd
+    - cv.qmd
 
 website:
+  title: "Daniel A. Brent"
+  site-url: https://www.danielbrent.com
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
+      - href: "index.qmd#research"
         text: Research
-      - href: teaching.qmd
+      - href: "index.qmd#publications"
+        text: Publications
+      - href: "index.qmd#teaching"
         text: Teaching
-      - href: cv.qmd
+      - href: "index.qmd#cv"
         text: CV
     right:
-      - icon: github
-        href: https://github.com/dbrentecon
+      - icon: envelope
+        href: mailto:dab320@psu.edu
       - icon: mortarboard-fill
         href: https://scholar.google.com/citations?user=-0oqdtsAAAAJ&hl=en
-        
-execute:
-  freeze: false
+      - icon: github
+        href: https://github.com/dbrentecon
+  page-footer:
+    center: "© Daniel A. Brent · Penn State University"
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, theme.scss]
+    css: styles.css
     toc: false
-    css: my-css.css
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">

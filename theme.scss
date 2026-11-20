@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+$primary: #1E407C;            // Penn State navy
+$link-color: #1E407C;
+$body-color: #1f2937;
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$headings-font-weight: 600;
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2937;
+$navbar-hl: #1E407C;
+$footer-bg: #ffffff;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #e5e7eb; }
+.navbar-title { font-family: $headings-font-family; font-weight: 600; }

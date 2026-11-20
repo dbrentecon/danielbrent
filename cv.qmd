@@ -1,7 +1,5 @@
 ---
 title: "Curriculum Vitae"
-title-block-banner: assets/images/web_sunset3.jpg
-title-block-banner-color: "black"
 format:
   html:
     toc: false
@@ -111,16 +109,20 @@ Website: <https://www.danielbrent.com>
 ## Academic Employment
 
 **Pennsylvania State University**\
-Department of Agricultural Economics, Sociology, and Education\
-- Associate Professor, 2023–present\
+Department of Agricultural Economics, Sociology, and Education
+
+- Associate Professor, 2023–present
+
 - Assistant Professor, 2018–2023
 
 **Louisiana State University**\
-Department of Economics\
+Department of Economics
+
 - Assistant Professor, 2015–2018
 
 **Monash University**\
-Department of Economics\
+Department of Economics
+
 - Research Fellow, 2013–2015
 
 ## Education
@@ -135,7 +137,7 @@ Environmental economics; Water resource economics; Applied econometrics; Causal 
 
 ## Publications
 
-{{< include publications.qmd >}}
+{{< include _publications.qmd >}}
 
 ## Working Papers
 
