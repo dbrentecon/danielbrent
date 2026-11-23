@@ -7,9 +7,6 @@ aliases:
   - publications.html
 ---
 
-::: {.photo-strip style="background-image: url('assets/images/web_lake3.jpg');"}
-:::
-
 ::: {#about .about}
 
 ![](assets/images/dbrent_small.jpg){.headshot fig-alt="Daniel Brent"}
@@ -19,13 +16,19 @@ aliases:
 
 [Associate Professor · Department of Agricultural Economics, Sociology, & Education · Penn State University]{.role}
 
-[Email](mailto:dab320@psu.edu){.btn-link} [CV (PDF)](assets/cv/DanielBrentCV.pdf){.btn-link} [Google Scholar](https://scholar.google.com/citations?user=-0oqdtsAAAAJ&hl=en){.btn-link} [GitHub](https://github.com/dbrentecon){.btn-link}
+[Email](mailto:dab320@psu.edu){.btn-link} 
+[CV (PDF)](assets/cv/DanielBrentCV.pdf){.btn-link} 
+[Google Scholar](https://scholar.google.com/citations?user=-0oqdtsAAAAJ&hl=en){.btn-link} [GitHub](https://github.com/dbrentecon){.btn-link}
 
 Dr. Brent is an applied microeconomist whose research sits at the intersection of environmental economics, water resource economics, behavioral economics, and public policy analysis. He is currently an Associate Professor in the Department of Agricultural Economics, Sociology, & Education at Pennsylvania State University. Dr. Brent’s research focuses on understanding how economic agents respond to incentives, environmental stimuli, and information in settings with externalities. His work uses field experiments, behavioral economics, quasi-experimental variation, and machine learning to address pressing environmental and resource challenges. Recent projects examine peer effects in voluntary environmental programs, the frictions in water assistance programs, the introduction of volumetric water pricing, and the interaction between behavioral nudges and economic incentives. Another strand of his work studies financial literacy and cost misperceptions in higher education.
 
 Dr. Brent currently teaches a PhD econometrics course on causal inference and an undergraduate personal finance course. Prior teaching includes environmental economics, principles of microeconomics, and intermediate microeconomics.
+
+
+:::
 :::
 
+::: {.photo-strip .thin style="background-image: url('assets/images/web_lake3.jpg'); background-position: center 55%;"}
 :::
 
 ## Working Papers {#research}
@@ -34,10 +37,16 @@ Dr. Brent currently teaches a PhD econometrics course on causal inference and an
 {{< include _working-papers.qmd >}}
 :::
 
+::: {.photo-strip .thin style="background-image: url('assets/images/web_mount_lake3.jpg'); background-position: center 35%;"}
+:::
+
 ## Published Articles {#publications}
 
 ::: {.paper-list}
 {{< include _publications.qmd >}}
+:::
+
+::: {.photo-strip .thin style="background-image: url('assets/images/web_view2.jpg'); background-position: center 40%;"}
 :::
 
 ## Work in Progress
@@ -98,6 +107,9 @@ Benefit–cost analysis, policy evaluation, and empirical evidence in environmen
 **Previous teaching.** *Louisiana State University:* Environmental Economics; Intermediate Microeconomic Theory; Principles of Microeconomics. *University of Washington:* Intermediate Microeconomics; Introductory Microeconomics.
 
 **Advising.** I advise PhD and MS students on applied research in environmental economics, water resources, and causal inference. I am especially interested in projects that combine field experiments, administrative data, and policy evaluation.
+
+::: {.photo-strip .thin style="background-image: url('assets/images/web_sunset1.jpg'); background-position: center 30%;"}
+:::
 
 ## CV {#cv}
 

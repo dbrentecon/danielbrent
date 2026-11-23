@@ -7,6 +7,9 @@ project:
     # linked normally in the .qmd files (PDFs, headshot) is copied automatically.
     - assets/images/web_lake3.jpg
     - assets/images/web_mount_lake2.jpg
+    - assets/images/web_mount_lake3.jpg
+    - assets/images/web_view2.jpg
+    - assets/images/web_sunset1.jpg
   render:
     - index.qmd
     - cv.qmd

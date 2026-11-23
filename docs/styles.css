@@ -11,7 +11,8 @@ main h2 {
   height: 210px; border-radius: 10px; margin: 1rem 0 2rem;
   background-size: cover; background-position: center 55%;
 }
-.photo-strip.thin { height: 120px; margin: 2.8rem 0 0; }
+.photo-strip.thin { height: 130px; margin: 3rem 0 1.5rem; }
+.about { margin-top: 1.5rem; }
 
 /* About / hero */
 .about { display: flex; gap: 2rem; align-items: flex-start; }
@@ -39,8 +40,12 @@ a.btn-link:hover { background: #1E407C; color: #fff; }
 .paper-list ul { list-style: none; padding-left: 0; }
 .paper-list li { margin-bottom: 1.25rem; line-height: 1.5; }
 .paper-list.compact li { margin-bottom: .7rem; }
-.paper-list li a:has(strong), .paper-list li strong > a { color: #111827; text-decoration: none; }
-.paper-list li a:has(strong):hover, .paper-list li strong > a:hover { color: #1E407C; text-decoration: underline; }
+/* Links: navy + light underline so they're visible before hovering */
+main a { color: #1E407C; text-decoration: underline; text-decoration-color: rgba(30,64,124,.35);
+  text-underline-offset: 3px; text-decoration-thickness: 1px; }
+main a:hover { text-decoration-color: #1E407C; }
+.paper-list li a:has(strong), .paper-list li strong > a { color: #1E407C; }
+.paper-list li a:has(strong):hover, .paper-list li strong > a:hover { text-decoration-color: #1E407C; text-decoration-thickness: 2px; }
 /* secondary links (Working paper, Appendix, DOI) as small tags */
 .paper-list li > a:not(:has(strong)), .paper-list li > p > a:not(:has(strong)) {
   font-size: .8rem; padding: .05rem .45rem; border: 1px solid #cbd5e1;
